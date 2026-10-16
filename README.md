@@ -14,6 +14,7 @@
 | **[enterprise-rag-kb](https://github.com/xuanlimg/enterprise-rag-kb)** | 企业知识库 RAG 后端服务：多格式文档解析、向量 + 关键词混合检索（RRF 融合 + 重排）、SSE 流式问答与引用溯源，内置真实评测集（hit_rate 1.0 / MRR 0.9） |
 | **[abyss-tower](https://github.com/xuanlimg/abyss-tower)** | 基于 Godot 4 的 2D 俯视角「数字吞噬」动作游戏原型，支持 Android 触屏与 Windows 键鼠，带自动测试场景 |
 | **[bilibili-audio-downloader](https://github.com/xuanlimg/bilibili-audio-downloader)** | Windows 桌面工具：输入链接即可下载 B 站音频并转码为 MP3 / M4A / OPUS / FLAC / WAV，支持合集、Cookie、代理与安装包分发 |
+| **[scraper-toolkit](https://github.com/xuanlimg/scraper-toolkit)** | Python 采集脚本合集：图片 / m3u8 视频 / 音频 / 小说四类可独立运行的下载脚本，统一处理请求重试、限速、临时文件原子替换与内容类型校验 |
 
 ---
 
